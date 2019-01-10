@@ -1,0 +1,25 @@
+{
+  "name": "frank-library",
+  "version": "1.0.0",
+  "description": "just learning how to write a js library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankChinedu/frank-library.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "obi chinedu frank <frankieetchy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrankChinedu/frank-library/issues"
+  },
+  "homepage": "https://github.com/FrankChinedu/frank-library#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
